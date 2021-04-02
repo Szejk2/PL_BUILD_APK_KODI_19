@@ -4,7 +4,7 @@ zip="https://t1p.de/szejk"
 
 name="Iron Man"
 version="1.0.0"
-url="https://www.magentacloud.de/api/sharelink/download?id="
+url="https://www.magentacloud.de/api/sharelink/download?id=BPCIgMIz"
 minor="http://"
 gui="http://"
 kodi="19.0"
