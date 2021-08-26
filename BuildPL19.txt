@@ -1,6 +1,6 @@
 id="plugin.program.szejkPL19"
 version="2.0.0"
-zip="https://t1p.de/szejk19"
+zip="https://t1p.de/Szejk19"
 
 name="Iron Man"
 version="1.0.0"
